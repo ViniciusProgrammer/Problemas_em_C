@@ -4,6 +4,7 @@
 int main()
 {
     srand(time(NULL));
+    
     int i, j, acertou = 0, a, b, soma, cont = 1;
     int vet[5];
 
